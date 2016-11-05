@@ -15,19 +15,14 @@ Eric, an enthusiastic musician, wants to learn how to play a keyboard. However, 
 2.  Detecting 41 AR tags and determining which buttons has been clicked might be computational expensive, but we need immediate audio response once the user touches the button. Therefore, it is necessary to employ an efficient type of AR tag and fast detector such as BRISK (Assignment 1).
 3.  Does the distance/angle between camera and AR tags effect the algorithm?
 
-##Goals & Deliverables
-**Plan To Archive:** A small and reasonable pedestrian detection model for iPad, in term of speed, memory, and performance (log-average miss rate).
-
-**Hope To Archive:** A full fledge working framework and model on iPad
-
-**Success Metric:** The model will be evaluate on Caltech metric, which will reflect the log-average miss rate on Caltech Pedestrian Dataset. Student model should be able to massively compress Teacher model in term of file size and number of parameters, while retaining the performance. I will provide a sample of detection video, and a speed benchmark on Titan X GPU, and if possible iPad Air 2.
-
-**How Realistic:** The model should definitely be finished in 1 month, but whether I could make the entire framework running on iPad is still unknown.
-
 ##Minimum success criterion/Baseline performance:
 1.	The app should work successfully for at least 70% of the times it is played.
 2.  Minimum 8 virtual buttons (forming an octave) should work successfully.
 3.  The response time for each button should less than or equal to 2 secs.
+
+##Hope to achieve:
+1.  41 virtual buttons work successfully.
+2.  The response time for each button should less than or equal to 0.5 sec.
 
 ##Schedule
 **Nov 9:** Review the basics of ARTag and ARToolKit learnt in the class and get familiarized with Unity and Vuforia
