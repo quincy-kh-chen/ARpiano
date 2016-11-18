@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="NewMarker1" size="1.000000 0.771429" />
+    <ImageTarget name="Piano_Notations" size="1.000000 0.773639" />
+    <ImageTarget name="Piano_key" size="1.000000 0.772727" />
+    <ImageTarget name="stone_chips_pebbles" size="1.000000 0.700000" />
+  </Tracking>
+</QCARConfig>

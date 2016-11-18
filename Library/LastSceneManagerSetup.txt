@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ARPiano_16456.unity
+  isLoaded: 1
+  isActive: 1
