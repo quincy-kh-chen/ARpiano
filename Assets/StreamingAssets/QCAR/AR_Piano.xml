@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="pianophoto" size="1.000000 0.611222" />
+    <ImageTarget name="Picture123" size="1.000000 0.672909" />
+    <ImageTarget name="macbook_pro_13inch_keyboard" size="1.000000 0.562500" />
+    <ImageTarget name="Picture4" size="1.000000 0.849138" />
+    <ImageTarget name="Picture12" size="1.000000 1.346626" />
+    <ImageTarget name="Picture1" size="1.000000 0.865878" />
     <ImageTarget name="NewMarker1" size="1.000000 0.771429" />
     <ImageTarget name="Piano_Notations" size="1.000000 0.773639" />
     <ImageTarget name="Piano_key" size="1.000000 0.772727" />
     <ImageTarget name="stone_chips_pebbles" size="1.000000 0.700000" />
+    <ImageTarget name="classmate" size="1.000000 1.332938" />
+    <ImageTarget name="Virtual_Piano" size="1200.000000 422.000000" />
   </Tracking>
 </QCARConfig>

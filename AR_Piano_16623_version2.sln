@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2B2EACE8-F353-BA85-5BEB-EFA3C1F1BDB6}") = "AR_Piano_16623_version2", "Assembly-CSharp.csproj", "{B0C6F75A-ADDF-B5E3-7700-CA07011F3A5C}"
+EndProject
+Project("{2B2EACE8-F353-BA85-5BEB-EFA3C1F1BDB6}") = "AR_Piano_16623_version2", "Assembly-CSharp-Editor.csproj", "{B5693B21-A24F-1333-917C-662C01A3B86B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0C6F75A-ADDF-B5E3-7700-CA07011F3A5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0C6F75A-ADDF-B5E3-7700-CA07011F3A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0C6F75A-ADDF-B5E3-7700-CA07011F3A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0C6F75A-ADDF-B5E3-7700-CA07011F3A5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5693B21-A24F-1333-917C-662C01A3B86B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5693B21-A24F-1333-917C-662C01A3B86B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5693B21-A24F-1333-917C-662C01A3B86B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5693B21-A24F-1333-917C-662C01A3B86B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
